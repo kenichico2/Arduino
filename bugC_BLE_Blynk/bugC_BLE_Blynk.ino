@@ -6,7 +6,7 @@
 #define BLYNK_PRINT Serial
 #define BLYNK_USE_DIRECT_CONNECT
 
-char auth[] = "R_8vPXPOswSJhmHBeu5dupw5NubAwEG3"; //Auth Token for BLE
+char auth[] = ""; //Auth Token for BLE
 
 
 
