@@ -10,7 +10,7 @@ int8_t Speed = 100;
 
 // You should get Auth Token in the Blynk App.
 // Go to the Project Settings (nut icon).
-char auth[] = "R_8vPXPOswSJhmHBeu5dupw5NubAwEG3"; //Auth Token for BLE
+char auth[] = ""; //Auth Token for BLE
 
 // the setup routine runs once when M5StickC starts up
 void setup() {
